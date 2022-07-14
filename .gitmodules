@@ -1,0 +1,6 @@
+[submodule "backend/ClaimAuth"]
+	path = backend/ClaimAuth
+	url = https://github.com/Hari635/ClaimAuth
+[submodule "backend/claims-management"]
+	path = backend/claims-management
+	url = https://github.com/prithvitewatia/claims-management
